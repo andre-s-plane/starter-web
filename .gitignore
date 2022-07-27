@@ -1,1 +1,3 @@
 dont_track_me.txt
+*.log
+/log
