@@ -6,6 +6,8 @@ dsfgsdf more changes
 ## Introduction
 intro
 
+some more info
+
 ## Purpose
 
 Sample website with plenty of files for demos
